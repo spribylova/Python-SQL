@@ -1,0 +1,4 @@
+mk_paymentstatus,StatusName,Description
+1,Pending,payment is pending approval
+2,Completed,payment has been completed successfully
+3,Failed,payment has failed

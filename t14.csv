@@ -1,0 +1,4 @@
+mk_PaymentMethod,PaymentMethodName,PaymentType
+1,Method A,Type A
+2,Method B,Type A
+3,Method C,Type B

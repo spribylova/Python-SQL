@@ -1,0 +1,9 @@
+mk_customer,brandName,CustomerMarketName,AccountState,RegistrationDate,FirstDepositDate
+1,Brand A,Market A,Active,20190101,22221201
+2,Brand B,Market B,Closed,20190205,20190205
+3,Brand C,Market C,Active,20190303,20190303
+4,Brand A,Market D,Active,20190304,22221201
+5,Brand B,Market C,Active,20190404,20190404
+6,Brand C,Market D,Closed,20190407,22221201
+7,Brand A,Market A,Active,20190304,20190324
+8,Brand B,Market B,Active,20190401,20190402
